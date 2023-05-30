@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="18px" viewBox="0 0 12 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11-/-11-Pro-Max-05" transform="translate(-352.000000, -377.000000)" fill="#CBCBCB" fill-rule="nonzero">
+            <g id="strelka-pravo" transform="translate(342.000000, 370.000000)">
+                <path d="M12.8,25 C12.2,25 11.7,24.8 11.3,24.3 C10.6,23.5 10.7,22.2 11.5,21.5 L17.8,16 L11.5,10.5 C10.7,9.8 10.6,8.5 11.3,7.7 C12,6.9 13.3,6.8 14.1,7.5 L20.7,13.3 C21.5,14 22,15 22,16 C22,17 21.5,18 20.7,18.7 L14.1,24.5 C13.8,24.8 13.3,25 12.8,25 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

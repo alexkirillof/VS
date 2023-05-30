@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="iPhone-11-/-11-Pro-Max-05" transform="translate(-342.000000, -817.000000)" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(40.000000, 817.000000)">
+                <g id="star" transform="translate(302.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-9_5_" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M26.5,13.6 C26.4,13.2 26,12.9 25.6,12.9 L19,12.9 L16.9,6.7 C16.8,6.3 16.4,6 16,6 C15.6,6 15.2,6.3 15.1,6.7 L13,12.9 L6.5,13 C6.1,13 5.7,13.3 5.6,13.7 C5.5,14.1 5.6,14.6 6,14.8 L11.2,18.7 L9.2,24.9 C9.1,25.3 9.2,25.8 9.6,26 C9.9,26.3 10.4,26.3 10.8,26 L16.1,22.2 L21.4,26 C21.6,26.1 21.8,26.2 22,26.2 C22.2,26.2 22.4,26.1 22.6,26 C22.9,25.7 23.1,25.3 23,24.9 L21,18.7 L26.2,14.8 C26.5,14.5 26.6,14 26.5,13.6 Z" id="Path" ></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="VS-12" transform="translate(-359.000000, -503.000000)" fill="currentColor">
+            <g id="Group-4" transform="translate(359.000000, 503.000000)">
+                <path d="M15,23.4141 L7.293,15.7071 C6.902,15.3161 6.902,14.6841 7.293,14.2931 C7.684,13.9021 8.316,13.9021 8.707,14.2931 L15,20.5861 L24.293,11.2931 C24.684,10.9021 25.316,10.9021 25.707,11.2931 C26.098,11.6841 26.098,12.3161 25.707,12.7071 L15,23.4141 Z" id="Fill-2" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

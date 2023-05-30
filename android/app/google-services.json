@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492255872736",
+    "firebase_url": "https://vine-prod.firebaseio.com",
+    "project_id": "vine-prod",
+    "storage_bucket": "vine-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492255872736:android:7f48a517190cec2d81b285",
+        "android_client_info": {
+          "package_name": "us.startmobile.vinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492255872736-v1m7glp3b3iabomulrdj8pbkii0tbs3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.startmobile.vinestore",
+            "certificate_hash": "07c235a8c027f6eb01889189d50220425dc02bcb"
+          }
+        },
+        {
+          "client_id": "492255872736-26ptjqrtnjphbj9uebq5ndni2j8ktbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGfHke1YP6pjHUFH9GEzYqLF2q6J0a8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492255872736-26ptjqrtnjphbj9uebq5ndni2j8ktbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492255872736-k2cj63lbth83pf4aj7bo8fh7snv3oj0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "us.startmobile.vinestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

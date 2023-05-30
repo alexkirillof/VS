@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3 Copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VS-9" transform="translate(-305.000000, -50.000000)">
+            <g id="Group-3-Copy" transform="translate(305.000000, 50.000000)">
+                <polygon id="Fill-1-Copy-3" points="0 32 32 32 32 0 0 0"></polygon>
+                <line x1="8" y1="8" x2="24" y2="24" id="Path-2-Copy-3" stroke="#363434" stroke-width="2"
+                    stroke-linecap="round"></line>
+                <line x1="24" y1="8" x2="8" y2="24" id="Path-2-Copy-3" stroke="#363434" stroke-width="2"
+                    stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

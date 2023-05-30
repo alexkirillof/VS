@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SF-Pro-Display-Bold.otf",
+      "sha1": "100e7b7fd24facbca4db38e6d4d7e01c73b82818"
+    },
+    {
+      "path": "src/assets/fonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "src/assets/fonts/SF-Pro-Text-Bold.otf",
+      "sha1": "b27d8c428b282fbfd3d40362f4e3ef60afb95ebf"
+    },
+    {
+      "path": "src/assets/fonts/SF-Pro-Text-Regular.otf",
+      "sha1": "85b4043974a2a3be5afbcc9ea2becab072d2cd8f"
+    },
+    {
+      "path": "src/assets/fonts/SF-Pro-Text-Semibold.otf",
+      "sha1": "d8c839390af4265e252fe445b06428c5baeec70d"
+    },
+    {
+      "path": "src/assets/fonts/SF-UI-Display-Bold.otf",
+      "sha1": "b1c6fa554aea004cd468943353425d83afc524be"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-black-58646a6b80d5a.otf",
+      "sha1": "95a211f130be0584bca8b96f8886fa26e54e4c33"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-bold-58646a511e3d9.otf",
+      "sha1": "7e7bc546371839f6261b7aa3614a7ee270a12504"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-heavy-586470160b9e5.otf",
+      "sha1": "07db5cccbe455aa9d3741ce76e1254a714a4d0de"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-light-58646b33e0551.otf",
+      "sha1": "9bbfb53fa3a4004f6da5820bb2d3ea92135308bb"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-medium-58646be638f96.otf",
+      "sha1": "cdedea75635f4ca94dc758b2c8022334b5bb1d6b"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-semibold-58646eddcae92.otf",
+      "sha1": "8e147d5a6d7902810cfae7d30b637c84f9e8315f"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-thin-58646e9b26e8b.otf",
+      "sha1": "1bac9bcddeb5bac4bbf3a86e2006351ead8e5b90"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-ultralight-58646b19bf205.otf",
+      "sha1": "554e2532435878343790ce55a0a877224548bee8"
+    }
+  ]
+}
